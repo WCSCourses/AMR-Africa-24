@@ -3,7 +3,6 @@
 # Antimicrobial Resistance in Bacterial Pathogens - Africa: 9 to 14 March 2024
 
 ## Course Overview
-**Course Summary**
 
 The objective of this course is to enhance proficiency in the detection of antimicrobial resistance (AMR) and to cultivate expertise in genomic surveillance of AMR. It aims to offer a foundational understanding and hands-on training in laboratory methodologies for detecting AMR in bacteria, encompassing both phenotypic and molecular testing. The curriculum will also delve into theoretical concepts surrounding the evolution and spread of AMR, while exploring the utilisation of whole-genome sequencing and bioinformatics techniques for AMR surveillance and control.
 
