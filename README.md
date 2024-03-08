@@ -40,6 +40,7 @@ After attending this course, participants will be able to:
 - [Fahad Khokhar](https://www.researchgate.net/profile/Fahad-Khokhar), University of Cambridge, UK
 - [Francesc Coll](https://www.lshtm.ac.uk/aboutus/people/coll.francesc), London School of Hygiene & Tropical Medicine, UK
 - [Lillian Musila](https://www.kemri.go.ke/cmr-staff-profiles/#1635923039986-d290ab63-bde6), KEMRI, Kenya
+- [Narendra Kumar]([https://www.kemri.go.ke/cmr-staff-profiles/#1635923039986-d290ab63-bde6](https://www.infectiousdisease.cam.ac.uk/directory/narender-kumar)), Wellcome Sanger Institute, UK
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
