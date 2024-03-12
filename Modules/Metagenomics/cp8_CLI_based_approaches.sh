@@ -50,6 +50,7 @@ bwt=~/course/cp8/databases/hocort/human
 # Create directory to save decontaminated reads
 hocort=~/course/cp8/hocort
 mkdir -p $hocort
+threads="4";
 
 for fq in $(find $clean_reads -name "*R1.fq.gz"); do
 	sampleid=$(basename -s ".R1.fq.gz" $fq)
