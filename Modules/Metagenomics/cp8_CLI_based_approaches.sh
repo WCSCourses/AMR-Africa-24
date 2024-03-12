@@ -69,9 +69,14 @@ done
 
 ## STEP:03
 # First let’s create a directory to store our databases
-mkdir -p ~/course/cp8/databases/kraken2
-Next we will decompress the kraken2 database into the path we created above
-tar –xvzf ~/course/cp8/k2_standard_16gb_20240112.tar.gz -C ~/course/cp8/databases/kraken2_8gb/
+# mkdir -p ~/course/cp8/databases/kraken2
+# Next we will decompress the kraken2 database into the path we created above
+# tar –xvzf ~/course/cp8/k2_standard_16gb_20240112.tar.gz -C ~/course/cp8/databases/kraken2_8gb/
+
+# new tar news
+mkdir -p ~/course/cp8/databases/kraken2_8gb
+tar -xvzf ~/course/cp8/databases/kraken2/k2_standard_08gb_20240112.tar.gz -C ~/course/cp8/databases/kraken2_8gb/
+
 
 
 ## STEP:04
