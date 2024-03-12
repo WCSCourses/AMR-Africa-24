@@ -89,7 +89,8 @@ krak=~/course/cp8/kraken2
 # set threads
 threads=4
 # set path to kraken2 database and clean_reads directory
-db=~/course/cp8/databases/kraken2
+# db=~/course/cp8/databases/kraken2
+db=~/course/cp8/databases/kraken2_8gb/
 clean_reads=~/course/cp8/clean_reads
 
 
