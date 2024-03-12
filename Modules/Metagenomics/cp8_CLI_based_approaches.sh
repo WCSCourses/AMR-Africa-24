@@ -1,6 +1,10 @@
 
 ## STEP: 01
 
+# First let's set our working directory
+cd ~/course/cp8
+
+
 conda activate readQC
 
 # create output directory for fastp output
@@ -9,6 +13,9 @@ mkdir -p $clean_reads
 
 # Provide path to the raw reads directory
 raw_reads=~/course/cp8/raw_reads
+mkdir -p $raw_reads
+
+rsync ~/course/cp8/downsampled/*.gz $raw_reads/
 
 # Execute the for loop to perform QC on all samples in the raw_reads directory
 for fq in $(find $raw_reads -name "*R1.fq.gz"); do
@@ -22,7 +29,7 @@ for fq in $(find $raw_reads -name "*R1.fq.gz"); do
 	-h $clean_reads/${sampleid}.fastp.html \
 	--correction --dedup --overrepresentation_analysis --thread 4 \
 	-o $clean_reads/${sampleid}.R1.fq.gz -O $clean_reads/${sampleid}.R2.fq.gz
-Done >> $clean_reads/qc_step1.log
+done >> $clean_reads/qc_step1.log
 
 
 
