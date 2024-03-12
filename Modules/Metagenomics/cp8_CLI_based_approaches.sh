@@ -116,8 +116,7 @@ mkdir -p $brak
 
 
 for file in $(find $krak -name "*kraken.report"); do sampleid=$(basename -s ".kraken.report"
-$file); bracken -d "$db" -i $file -o $brak/${sampleid}.bracken.report -w
-${sampleid}.bracken_species.report; done
+$file); bracken -d "$db" -i $file -o $brak/${sampleid}.bracken.report -w ${sampleid}.bracken_species.report; done
 
 
 ## STEP:06
