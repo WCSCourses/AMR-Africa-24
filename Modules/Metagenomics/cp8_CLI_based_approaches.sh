@@ -29,7 +29,7 @@ for fq in $(find $raw_reads -name "*R1.fq.gz"); do
 	-h $clean_reads/${sampleid}.fastp.html \
 	--correction --dedup --overrepresentation_analysis --thread 4 \
 	-o $clean_reads/${sampleid}.R1.fq.gz -O $clean_reads/${sampleid}.R2.fq.gz
-done >> $clean_reads/qc_step1.log
+done >> $clean_reads/qc_step1.log 2>&1
 
 
 
