@@ -1,0 +1,34 @@
+
+
+
+amrfinder -n HO50960412.fa -O Staphylococcus_aureus -o HO50960412_amrfinder.txt
+
+amrfinder -n ERR017261.assembly.fa -O Staphylococcus_aureus -o ERR017261_amrfinder.txt
+
+amrfinder -n ERR2093245.assembly.fa -O Salmonella -o ERR2093245_amrfinder.txt
+
+amrfinder -n ERR2093329.assembly.fa -O Salmonella -o ERR2093329_amrfinder.txt
+
+resfinder -ifa HO50960412.fa -s "Staphylococcus aureus" --acquired --point --outputPath HO50960412_resfinder --db_path_res ./resfinder_db
+
+resfinder -ifa ERR017261.assembly.fa -s "Staphylococcus aureus" --acquired --point --outputPath ERR017261_resfinder --db_path_res ./resfinder_db
+
+resfinder -ifa ERR2093245.assembly.fa -s "Salmonella enterica" --acquired --point --outputPath ERR2093245_resfinder --db_path_res ./resfinder_db
+
+resfinder -ifa ERR2093329.assembly.fa -s "Salmonella enterica" --acquired --point --outputPath ERR2093329_resfinder --db_path_res ./resfinder_db
+
+rgi main --input_sequence HO50960412.fa --output_file HO50960412_rgi --input_type contig --clean --local
+
+rgi main --input_sequence ERR017261.assembly.fa --output_file ERR017261_rgi --input_type contig --clean --local 
+
+rgi main --input_sequence ERR2093245.assembly.fa --output_file ERR2093245_rgi --input_type contig --clean --local 
+
+rgi main --input_sequence ERR2093329.assembly.fa --output_file ERR2093329_rgi --input_type contig --clean --local
+
+cat HO50960412_rgi.txt | cut -d$'\t' -f6,11,13,15,16,17 > HO50960412_rgi.short.txt
+
+cat ERR017261_rgi.txt | cut -d$'\t' -f6,11,13,15,16,17 > ERR017261_rgi.short.txt
+
+cat ERR2093245_rgi.txt | cut -d$'\t' -f6,11,13,15,16,17 > ERR2093245_rgi.short.txt
+
+cat ERR2093329_rgi.txt | cut -d$'\t' -f6,11,13,15,16,17 > ERR2093329_rgi.short.txt
