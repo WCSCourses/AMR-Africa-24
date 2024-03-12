@@ -11,7 +11,19 @@ amrfinder -n ERR017261.assembly.fa -O Staphylococcus_aureus -o ERR017261_amrfind
 amrfinder -n ERR2093245.assembly.fa -O Salmonella -o ERR2093245_amrfinder.txt
 amrfinder -n ERR2093329.assembly.fa -O Salmonella -o ERR2093329_amrfinder.txt
 
-# ResFinder commands
+
+# ResFinder commands on the Virtual Machine
+
+python3 /usr/local/lib/python3.10/dist-packages/resfinder/run_resfinder.py -ifa HO50960412.fa -s "Staphylococcus aureus" --acquired --point --outputPath HO50960412_resfinder --db_path_res ./resfinder_db --db_path_point ./pointfinder_db/
+
+python3 /usr/local/lib/python3.10/dist-packages/resfinder/run_resfinder.py -ifa ERR017261.assembly.fa -s "Staphylococcus aureus" --acquired --point --outputPath ERR017261_resfinder --db_path_res ./resfinder_db --db_path_point ./pointfinder_db/
+
+python3 /usr/local/lib/python3.10/dist-packages/resfinder/run_resfinder.py -ifa ERR2093245.assembly.fa -s "Salmonella enterica" --acquired --point --outputPath ERR2093245_resfinder --db_path_res ./resfinder_db --db_path_point ./pointfinder_db/
+
+python3 /usr/local/lib/python3.10/dist-packages/resfinder/run_resfinder.py -ifa ERR2093329.assembly.fa -s "Salmonella enterica" --acquired --point --outputPath ERR2093329_resfinder --db_path_res ./resfinder_db --db_path_point ./pointfinder_db/
+
+
+# ResFinder commands - OLD commands - DO NOT USED
 
 mamba install resfinder
 
