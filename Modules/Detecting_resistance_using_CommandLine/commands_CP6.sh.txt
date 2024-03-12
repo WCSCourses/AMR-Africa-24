@@ -1,3 +1,5 @@
+# https://github.com/WCSCourses/AMR-Africa-24/edit/main/Modules/Detecting_resistance_using_CommandLine/commands_CP6.sh.txt
+
 # AMRFinder commands
 
 export PATH="/usr/bin:/bin:$PATH"
