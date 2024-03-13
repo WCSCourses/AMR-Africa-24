@@ -50,7 +50,7 @@ bwt=~/course/cp8/databases/hocort/human
 # Create directory to save decontaminated reads
 hocort=~/course/cp8/hocort
 mkdir -p $hocort
-threads="4";
+threads=4
 
 for fq in $(find $clean_reads -name "*R1.fq.gz"); do
 	sampleid=$(basename -s ".R1.fq.gz" $fq)
@@ -146,11 +146,11 @@ conda deactivate
 ## STEP:07
 
 # Now let’s get a summary of the taxonomic classification output using multiqc
+conda deactivate; conda activate readQC
 
-# conda activate readQC
 multiqc -f --no-data-dir $krak --outdir $qc_reports -n krackenres
 
-
+conda deactivate
 
 
 
@@ -158,6 +158,7 @@ multiqc -f --no-data-dir $krak --outdir $qc_reports -n krackenres
 # kma should already be available in your path, and can verify this by using any of the following
 # command(s):
 
+conda activate
 
 kma -v
 which kma
