@@ -69,12 +69,9 @@ done
 
 ## STEP:03
 # First let’s create a directory to store our databases
-# mkdir -p ~/course/cp8/databases/kraken2
-# Next we will decompress the kraken2 database into the path we created above
-# tar –xvzf ~/course/cp8/k2_standard_16gb_20240112.tar.gz -C ~/course/cp8/databases/kraken2_8gb/
-
-# new tar news
 mkdir -p ~/course/cp8/databases/kraken2_8gb
+# Next we will decompress the kraken2 database into the path we created above
+
 tar -xvzf ~/course/cp8/databases/kraken2/k2_standard_08gb_20240112.tar.gz -C ~/course/cp8/databases/kraken2_8gb/
 
 
@@ -86,10 +83,13 @@ conda activate classify
 mkdir -p ~/course/cp8/kraken2
 
 krak=~/course/cp8/kraken2
+
+
 # set threads
 threads=4
+
 # set path to kraken2 database and clean_reads directory
-# db=~/course/cp8/databases/kraken2
+
 db=~/course/cp8/databases/kraken2_8gb/
 clean_reads=~/course/cp8/clean_reads
 
@@ -115,13 +115,30 @@ brak=~/course/cp8/bracken
 mkdir -p $brak
 
 
-for file in $(find $krak -name "*kraken.report"); do sampleid=$(basename -s ".kraken.report"
-$file); bracken -d "$db" -i $file -o $brak/${sampleid}.bracken.report -w ${sampleid}.bracken_species.report; done
+for file in $(find $krak -name "*kraken.report"); do 
+	sampleid=$(basename -s ".kraken.report" $file)
+	bracken -d "$db" -i $file -o $brak/${sampleid}.bracken.report -w ${sampleid}.bracken_species.report
+done
 
 
 ## STEP:06
 krona=~/course/cp8/krona
 mkdir -p $krona
+
+
+## ****** Participants working directly from the server can skip this step ******** ##
+# Download and unpack the taxonomy data
+copath=$(conda info --base)
+
+cd $copath/envs/classify/opt/krona/taxonomy
+wget -c ftp://ftp.ncbi.nih.gov/pub/taxonomy/taxdump.tar.gz
+
+# prepare/build the tax data
+ktUpdateTaxonomy.sh --only-build
+
+## ******************************************************************************** ##
+
+cd ~/course/cp8
 
 ktImportTaxonomy -t 5 -m 3 -o $krona/grouped.krona.html $brak
 conda deactivate
@@ -147,12 +164,19 @@ which kma
 
 # You should either get the version of kma or the path to kma executable binary
 
+# set threads
+threads=4
+
+
+
 # path to resfinder db
 res_db=~/course/cp6/resfinder_db
 kma_out=~/course/cp8/resistance
 
 
 mkdir -p $kma_out
+
+
 # Now let’s run kma
 
 for fq in $(find $hocort -name "*R1.fq.gz"); do
