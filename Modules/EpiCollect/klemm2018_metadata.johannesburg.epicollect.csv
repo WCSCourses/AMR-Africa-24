@@ -1,0 +1,121 @@
+SampleId	PatientId	Gender	Age	Source	Year	Country	City	Latitude	Longitude	Ampicillin	Chloramphenicol	Ceftriaxone	Ciprofloxacin	Sulfamethoxazole	Cefuroxime	Azithromycin	Imipenem	Fosfomycin	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	parE_L416F	Integron	Plasmid	Outbreak
+ERR2093236	Individual_46	male	7	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093237	Individual_23	female	14	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	R	R	R	S	NT	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093238	Individual_8	male	19	Clinical	2024	South Africa	Cape Town	-33.924870	18.424055	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093239	Individual_15	male	4	Clinical	2024	South Africa	Cape Town	-33.924870	18.424055	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093240	Individual_39	male	5	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093241	Individual_21	male	12	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093242	Individual_81	female	3	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093243	Individual_82	male	11	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093244	Individual_55	male	2	Clinical	2024	South Africa	Port Elizabeth	-33.960758	25.620640	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093245	Individual_44	male	2	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093246	Individual_28	male	2	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093247	Individual_84	male	16	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093248	Individual_67	male	6	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093249	Individual_74	female	19	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	I	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093250	Individual_71	male	6	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	I	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093251	Individual_78	female	12	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093252	Individual_54	female	5	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	I	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093253	Individual_105	female	3	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	I	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093254	Individual_83	female	7	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093255	Individual_58	female	7	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	I	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093256	Individual_89	male	8	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093257	Individual_38	female	8	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093258	Individual_36	female	19	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093259	Individual_56	female	8	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	I	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093260	Individual_53	male	18	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093262	Individual_26	female	14	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093263	Individual_79	male	11	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093264	Individual_27	female	6	Clinical	2024	South Africa	Cape Town	-33.924870	18.424055	R	R	R	I	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093265	Individual_100	female	4	Clinical	2024	South Africa	Cape Town	-33.924870	18.424055	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093266	Individual_63	male	8	Clinical	2024	South Africa	Cape Town	-33.924870	18.424055	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093267	Individual_113	male	9	Clinical	2024	South Africa	Cape Town	-33.924870	18.424055	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093268	Individual_35	male	3	Clinical	2024	South Africa	Cape Town	-33.924870	18.424055	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093269	Individual_65	male	14	Clinical	2024	South Africa	Cape Town	-33.924870	18.424055	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093270	Individual_41	female	10	Clinical	2024	South Africa	Cape Town	-33.924870	18.424055	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093271	Individual_112	male	19	Clinical	2024	South Africa	Cape Town	-33.924870	18.424055	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093272	Individual_70	male	17	Clinical	2024	South Africa	Cape Town	-33.924870	18.424055	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093273	Individual_68	female	19	Clinical	2024	South Africa	Cape Town	-33.924870	18.424055	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093274	Individual_110	female	16	Clinical	2024	South Africa	Cape Town	-33.924870	18.424055	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093275	Individual_14	male	16	Clinical	2024	South Africa	Cape Town	-33.924870	18.424055	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093276	Individual_48	female	16	Clinical	2024	South Africa	Cape Town	-33.924870	18.424055	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093277	Individual_86	male	8	Clinical	2024	South Africa	Cape Town	-33.924870	18.424055	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093278	Individual_2	female	18	Clinical	2024	South Africa	Cape Town	-33.924870	18.424055	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093279	Individual_50	female	5	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093280	Individual_96	male	7	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093281	Individual_1	female	9	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093282	Individual_108	male	12	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093283	Individual_51	female	3	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093284	Individual_29	female	5	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093285	Individual_118	female	15	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093286	Individual_7	female	2	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093287	Individual_75	female	14	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093288	Individual_18	male	15	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093289	Individual_37	male	7	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	I	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093290	Individual_47	male	11	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	I	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093291	Individual_10	male	13	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093292	Individual_94	female	4	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093293	Individual_20	male	10	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093294	Individual_59	male	11	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093295	Individual_76	female	13	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093296	Individual_40	female	12	Clinical	2024	South Africa	Durban	-29.858681	31.021839	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093297	Individual_60	male	10	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093298	Individual_49	male	17	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093299	Individual_111	male	11	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093300	Individual_11	female	9	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093301	Individual_97	female	5	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093302	Individual_77	male	7	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093303	Individual_69	female	16	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	-	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093304	Individual_109	female	14	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093305	Individual_107	female	13	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093306	Individual_115	male	8	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093307	Individual_119	female	2	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093308	Individual_43	female	11	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093309	Individual_85	female	19	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093310	Individual_93	female	13	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093311	Individual_5	male	18	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093312	Individual_90	female	13	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093313	Individual_106	male	10	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093314	Individual_22	male	15	Clinical	2024	South Africa	Soweto	-26.248537	27.854033	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093315	Individual_52	male	10	Clinical	2024	South Africa	Port Elizabeth	-33.960758	25.620640	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093316	Individual_91	female	9	Clinical	2024	South Africa	Port Elizabeth	-33.960758	25.620640	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093317	Individual_80	male	17	Clinical	2024	South Africa	Port Elizabeth	-33.960758	25.620640	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093318	Individual_16	male	10	Clinical	2024	South Africa	Port Elizabeth	-33.960758	25.620640	R	R	R	R	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093319	Individual_98	male	18	Clinical	2024	South Africa	Port Elizabeth	-33.960758	25.620640	R	R	R	-	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093320	Individual_31	male	6	Clinical	2024	South Africa	Port Elizabeth	-33.960758	25.620640	R	R	R	-	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093321	Individual_88	female	6	Clinical	2024	South Africa	Port Elizabeth	-33.960758	25.620640	R	R	R	-	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093322	Individual_42	female	15	Clinical	2024	South Africa	Port Elizabeth	-33.960758	25.620640	R	R	R	-	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093323	Individual_104	male	3	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	S	I	R	S	S	S	S	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	control
+ERR2093324	Individual_66	male	9	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	S	s	I	R	S	S	S	S	strA	strB	-	-	blaTEM1	catA1	dfrA7	-	sul2	gyrA_S83F	-	yes	pHCM2	control
+ERR2093331	Individual_57	female	2	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	R	S	I	R	S	S	S	S	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	control
+ERR2093334	Individual_4	female	8	Clinical	2024	South Africa	Port Elizabeth	-33.960758	25.620640	S	S	R	I	R	R	S	S	S	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	IncY	outbreak
+ERR2093335	Individual_24	female	15	Clinical	2024	South Africa	Johannesburg	-26.204103	28.047304	R	S	S	I	S	S	S	S	S	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	parE_L416F	yes	-	control
+ERR331292	Individual_95	female	12	Clinical	2018	Zambia	Lusaka	-15.4163395	28.2818414	NA	NA	NA	NA	NA	NA	NA	NA	NA	-	-	-	-	-	-	-	-	-	gyrA_S83F	-	no	pHCM2	no
+ERR331293	Individual_25	female	12	Clinical	2018	Zambia	Lusaka	-15.4163395	28.2818414	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR331382	Individual_72	female	13	Clinical	2013	Angola	Luanda	-8.8272699	13.2439512	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR331383	Individual_73	male	16	Clinical	2016	Angola	Luanda	-8.8272699	13.2439512	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR331384	Individual_87	female	4	Clinical	2015	Angola	Luanda	-8.8272699	13.2439512	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR331385	Individual_92	female	6	Clinical	2017	Angola	Luanda	-8.8272699	13.2439512	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR331386	Individual_61	male	2	Clinical	2014	Angola	Luanda	-8.8272699	13.2439512	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR331387	Individual_45	female	7	Clinical	2016	Angola	Luanda	-8.8272699	13.2439512	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR331388	Individual_62	male	15	Clinical	2015	Angola	Luanda	-8.8272699	13.2439512	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR331389	Individual_12	male	11	Clinical	2016	Angola	Luanda	-8.8272699	13.2439512	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR331390	Individual_9	female	17	Clinical	2015	Angola	Luanda	-8.8272699	13.2439512	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR337984	Individual_17	female	5	Clinical	2019	Zambia	Lusaka	-15.4163395	28.2818414	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR337987	Individual_64	male	3	Clinical	2019	Zambia	Lusaka	-15.4163395	28.2818414	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR337990	Individual_30	male	14	Clinical	2019	Zambia	Lusaka	-15.4163395	28.2818414	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR337995	Individual_102	male	10	Clinical	2019	Zambia	Lusaka	-15.4163395	28.2818414	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR343322	Individual_103	male	18	Clinical	2019	Zimbabwe	Harare	-17.831773	31.045686	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR352304	Individual_114	male	3	Clinical	2017	Zambia	Lusaka	-15.4163395	28.2818414	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR352308	Individual_6	female	12	Clinical	2018	Zambia	Lusaka	-15.4163395	28.2818414	NA	NA	NA	NA	NA	NA	NA	NA	NA	-	-	-	-	-	catA1	dfrA7	sul1	-	gyrA_S83F	-	partial	pHCM2	no
+ERR352326	Individual_3	female	6	Clinical	2018	Angola	Luanda	-8.8272699	13.2439512	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR352444	Individual_116	male	4	Clinical	2019	South Africa	Cape Town	-33.924870	18.424055	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	-	no
+ERR352463	Individual_34	female	9	Clinical	2017	South Africa	Cape Town	-33.924870	18.424055	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR352468	Individual_32	male	5	Clinical	2017	Zambia	Lusaka	-15.4163395	28.2818414	NA	NA	NA	NA	NA	NA	NA	NA	NA	-	-	-	-	-	-	-	-	-	gyrA_S83F	-	no	pHCM2	no
+ERR357776	Individual_99	female	18	Clinical	2018	Zambia	Lusaka	-15.4163395	28.2818414	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR357782	Individual_13	female	17	Clinical	2017	Zambia	Lusaka	-15.4163395	28.2818414	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR357788	Individual_117	male	4	Clinical	2017	South Africa	Cape Town	-33.924870	18.424055	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	-	no
+ERR357792	Individual_101	female	17	Clinical	2018	Zambia	Lusaka	-15.4163395	28.2818414	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR360526	Individual_19	male	4	Clinical	2014	Zambia	Lusaka	-15.4163395	28.2818414	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+ERR360693	Individual_120	male	9	Clinical	2015	Kenya	Nairobi	-1.2832533	36.8172449	NA	NA	NA	NA	NA	NA	NA	NA	NA	strA	strB	-	-	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes	pHCM2	no
+SRR6181295	Individual_33	female	13	Clinical	2024	UK	London	51.5074456	-0.1277653	-	-	-	-	-	-	-	-	-	strA	strB	blaCTXM15	qnrS	blaTEM1	catA1	dfrA7	sul1	sul2	gyrA_S83F	-	yes 	IncY	travel
