@@ -42,14 +42,7 @@ After attending this course, participants will be able to:
 - [Lillian Musila](https://www.kemri.go.ke/cmr-staff-profiles/#1635923039986-d290ab63-bde6), KEMRI, Kenya
 - [Narender Kumar](https://www.infectiousdisease.cam.ac.uk/directory/narender-kumar), Wellcome Sanger Institute, UK
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
-
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
-
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+******
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
 
